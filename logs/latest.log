@@ -1,0 +1,39 @@
+[13:37:00] [ServerMain/INFO]: Building unoptimized datafixer
+[13:37:01] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[13:37:04] [ServerMain/INFO]: Loaded 7 recipes
+[13:37:05] [ServerMain/INFO]: Loaded 1179 advancements
+[13:37:07] [Server thread/INFO]: Starting minecraft server version 1.19.3
+[13:37:07] [Server thread/INFO]: Loading properties
+[13:37:07] [Server thread/INFO]: Default game type: SURVIVAL
+[13:37:07] [Server thread/INFO]: Generating keypair
+[13:37:07] [Server thread/INFO]: Starting Minecraft server on *:25565
+[13:37:07] [Server thread/INFO]: Using default channel type
+[13:37:07] [Server thread/INFO]: Preparing level "world"
+[13:37:09] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[13:37:13] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[13:37:13] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[13:37:14] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[13:37:14] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[13:37:14] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[13:37:14] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[13:37:14] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[13:37:14] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[13:37:14] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[13:37:14] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[13:37:14] [Worker-Main-3/INFO]: Preparing spawn area: 4%
+[13:37:15] [Worker-Main-1/INFO]: Preparing spawn area: 52%
+[13:37:15] [Server thread/INFO]: Time elapsed: 5912 ms
+[13:37:15] [Server thread/INFO]: Done (7.952s)! For help, type "help"
+[13:40:19] [User Authenticator #1/INFO]: UUID of player HenriqueBrasil is c5d2330b-a444-4f75-ac2a-0450862dddff
+[13:40:19] [Server thread/INFO]: HenriqueBrasil[/127.0.0.1:51216] logged in with entity id 61 at (18.766173463495846, 125.0, -167.29690122822282)
+[13:40:20] [Server thread/INFO]: HenriqueBrasil joined the game
+[13:40:53] [Server thread/INFO]: Stopping server
+[13:40:53] [Server thread/INFO]: Saving players
+[13:40:54] [Server thread/INFO]: Saving worlds
+[13:40:57] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[13:40:57] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[13:40:57] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[13:40:57] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[13:40:57] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[13:40:57] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[13:40:57] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
